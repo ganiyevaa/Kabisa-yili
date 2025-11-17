@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+     color: pink;
+       padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px        
+}
+
+button {
+    color: pink;
+}
